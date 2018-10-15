@@ -1,0 +1,26 @@
+{
+  "name": "currency-format",
+  "version": "1.0.0",
+  "description": "货币格式化",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volcano0107/currency-format.git"
+  },
+  "keywords": [
+    "格式化"
+  ],
+  "author": "wangcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volcano0107/currency-format/issues"
+  },
+  "homepage": "https://github.com/volcano0107/currency-format#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
