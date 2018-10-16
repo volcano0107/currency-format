@@ -1,4 +1,4 @@
-# currency-format
+# currency-format-tool
 =========
 
 A small library that format currency 
