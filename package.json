@@ -1,5 +1,5 @@
 {
-  "name": "currency-format",
+  "name": "currency-format-tool",
   "version": "1.0.0",
   "description": "货币格式化",
   "main": "index.js",
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/volcano0107/currency-format.git"
   },
   "keywords": [
-    "格式化"
+    "格式化",
+    "currency-format"
   ],
   "author": "wangcan",
   "license": "ISC",

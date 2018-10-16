@@ -6,16 +6,16 @@ A small library that format currency
 
 ## Installation
 
-  `npm install @wangcancan/currency-format`
+  `npm install currency-format-tool`
 
 ## Usage
 
-    var currencyFormatter = require('@wangcancan/currency-format');
+    var currencyFormatter = require('currency-format-tool');
 
-    var formattedCurrency = currencyFormatter(35666);
+    var formattedCurrency = currencyFormatter(12345);
   
   
-  Output should be `$35,666`
+  Output should be `$12,345`
 
 
 ## Tests
